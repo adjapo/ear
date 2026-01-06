@@ -1,0 +1,2 @@
+# ear
+School proje
